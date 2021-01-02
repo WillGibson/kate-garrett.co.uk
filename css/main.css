@@ -1,7 +1,11 @@
 body {
-    font-size: 1.2rem;
+    font-size: 1.2rem
 }
 
-h1.logo {
-    text-align: center;
+.main-container {
+    max-width: 960px;
+}
+
+.full-width {
+    width: 100%;
 }
