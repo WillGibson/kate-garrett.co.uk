@@ -1,0 +1,11 @@
+body {
+    font-size: 1.2rem
+}
+
+.main-container {
+    max-width: 960px;
+}
+
+.full-width {
+    width: 100%;
+}
