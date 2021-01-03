@@ -20,3 +20,21 @@ body {
 .video-embed {
     margin-bottom: 1rem;
 }
+
+.music-icon {
+    display: inline-block;
+    padding: 0.5rem;
+    border-radius: .25rem;
+}
+.spotify-icon {
+    background-color: #1ED760;
+}
+.apple-music-icon {
+    background-color: #000000;
+}
+.youtube-music-icon {
+    background-color: #FF0000;
+}
+.amazon-music-icon {
+    background-color: #FF9900;
+}
