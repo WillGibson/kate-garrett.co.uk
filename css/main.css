@@ -14,3 +14,7 @@ body {
 .image-border {
     border: 1px solid #B0A497;
 }
+
+.video-embed {
+    margin-bottom: 1rem;
+}
