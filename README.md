@@ -1,3 +1,3 @@
-# kate-garrett.co.uk
+# kategarrett.co.uk
 
-A simple website with information about Kate's music.
+A deliberately very simple website with information about Kate Garrett and her music.
