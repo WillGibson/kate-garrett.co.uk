@@ -1,6 +1,7 @@
 body {
     font-size: 1.2rem;
     padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 .main-container {
@@ -13,6 +14,7 @@ body {
 
 .image-border {
     border: 1px solid #B0A497;
+    border-radius: .25rem;
 }
 
 .video-embed {
